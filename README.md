@@ -1,4 +1,4 @@
-# Surver Form Project
+# Tribute Page Project
 
 This my submission for the [freeCodeCamp](freeCodeCamp.org) responsive web design course tribute page project.
 
